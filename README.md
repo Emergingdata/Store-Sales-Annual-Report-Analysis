@@ -1,4 +1,4 @@
-# Store-Sells-Annual-Report-Analysis
+# Store-Sales-Annual-Report-Analysis
 Objective
 Rakesh want to create an annual sales report for the FY-2022 of store.So from the basis of the
 previous data Rakesh can understand their customers and grow more sales in the FY-2023.
